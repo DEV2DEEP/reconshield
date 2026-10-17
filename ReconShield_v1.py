@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 """
 ╔════════════════════════════════════════════════════════════════════════════════════╗
-║  ReconShield  v1.0  —   Network Security Platform                      ║
-║  Developer : Deependra          ║
+║  ReconShield  v1.0  —   Network Security Platform                                  ║
+║  Developer : Deependra                                                             ║
 ╚════════════════════════════════════════════════════════════════════════════════════╝
 """
 
