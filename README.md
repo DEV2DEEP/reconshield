@@ -213,7 +213,7 @@ No license has been specified yet. Until a license is added to the repository, d
 
 **Deependra**
 
-GitHub: `https://github.com/YOUR-USERNAME`
+GitHub: `https://github.com/DEV2DEEP`
 
 ---
 
