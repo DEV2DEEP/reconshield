@@ -1,0 +1,10 @@
+# Core application uses Python standard-library modules:
+# tkinter, socket, threading, json, ipaddress, subprocess, hashlib, etc.
+# Tkinter is included with most standard Python installations, but may need
+# a separate OS package on some Linux distributions.
+
+# Optional features:
+matplotlib
+networkx
+psutil
+scapy
