@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 """
 ╔════════════════════════════════════════════════════════════════════════════════════╗
-║  ReconShield  v1.0  —  Professional Network Security Platform                      ║
-║  Developer : Deependra  |  NFSU School of Cyber Security & Digital Forensics       ║
+║  ReconShield  v1.0  —   Network Security Platform                      ║
+║  Developer : Deependra          ║
 ╚════════════════════════════════════════════════════════════════════════════════════╝
 """
 
@@ -6649,7 +6649,7 @@ class DashboardTab(tk.Frame):
 class ReconShieldApp(tk.Tk):
     def __init__(self):
         super().__init__()
-        self.title("⚡ ReconShield  v1.0  — Network Security & Reconnaissance   |  Deependra  |  NFSU DFIS")
+        self.title("⚡ ReconShield  v1.0  — Network Security & Reconnaissance   |  Deependra  ")
         try: self.state("zoomed")
         except:
             try: self.attributes("-zoomed",True)
@@ -6694,7 +6694,7 @@ class ReconShieldApp(tk.Tk):
         else:
             tk.Label(rb,text="  ⚠ LIMITED  ",bg=C["btn_r"],fg=C["orange"],
                      font=("Segoe UI Semibold",9)).pack(side="right",padx=4)
-        tk.Label(rb,text="Deependra  |  NFSU DFIS  |  ",
+        tk.Label(rb,text="Deependra   |  ",
                  bg=C["panel"],fg=C["text_dim"],
                  font=("Segoe UI",8)).pack(side="right")
 
