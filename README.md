@@ -69,11 +69,11 @@ Optional packages used when available:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/ReconShield.git
+git clone https://github.com/DEV2DEEP/reconshield.git
 cd ReconShield
 ```
 
-Replace `YOUR-USERNAME` with your GitHub username and use the repository URL you create on GitHub.
+Replace `DEV2DEEP` with your GitHub username and use the repository URL you create on GitHub.
 
 ### 2. Create a virtual environment (recommended)
 
